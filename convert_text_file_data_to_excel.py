@@ -1,4 +1,3 @@
-# Run the following command: pip install openpyxl
 from openpyxl import Workbook
 
 # Create a new workbook and select the active sheet
