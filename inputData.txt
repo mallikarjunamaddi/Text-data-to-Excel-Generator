@@ -1,0 +1,4 @@
+Name   Age  City                    Pincode
+John      25 BGL   522601
+Roshan  26  BGL   522601
+Rahul     25 HYD  500031
